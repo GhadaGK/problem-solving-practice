@@ -1,6 +1,3 @@
-/*
-* https://www.geeksforgeeks.org/quick-sort/
-*/
 #include <bits/stdc++.h>
 using namespace std;
 
